@@ -94,4 +94,5 @@ class Solution:
         ret = self.merge(left, right)
         return ret, cntT + cntL + cntR
 
-    # @lc code=end
+
+# @lc code=end
